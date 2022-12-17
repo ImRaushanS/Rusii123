@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImRaushanS , but my certified name is Raushan Kumar 
 - 👀 I’m interested in Data science domain.
-- 🌱 I’m currently learning Data Science course by Almabetter
+- 🌱 I’m at present Data Science Trainee in Almabetter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  via raushansharma100@gmail.com  or +91 9905587362
 
